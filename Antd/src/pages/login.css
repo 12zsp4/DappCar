@@ -1,0 +1,8 @@
+/* styles.css */  
+.login-form {  
+  width: 100%; /* 或其他你需要的宽度 */  
+  max-width: 400px; /* 可选，设置最大宽度 */  
+  margin: 0 auto; /* 水平居中 */  
+  padding: 20px; /* 内边距 */  
+ 
+}
